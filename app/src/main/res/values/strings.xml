@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">useit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Prueba Tecnica</string>
+    <string name="nav_header_subtitle">hanner.ross@correounivalle.edu.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_add">Añadir Idea</string>
+    <string name="label_login">Inicio de Sesión</string>
+    <string name="label_user">Usuario:</string>
+    <string name="label_button">Ingresar</string>
+    <string name="label_button2">Añadir</string>
+    <string name="label_combo">Seleccionar Tablero</string>
+</resources>
